@@ -1,6 +1,6 @@
 #### What is Pig?
 
-Pig is a game you play against the computer. The first player to get to 100 points wins.
+Pig is a game you play against the computer. The first player to score 100 points wins.
 
 On your turn, roll the dice as many times as you like by clicking the **Roll** button. Any roll that's 
 not a 1 will be added to your running total for that turn; if you roll a 1, however, your turn ends and 
