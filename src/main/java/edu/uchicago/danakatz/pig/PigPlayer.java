@@ -1,4 +1,4 @@
-package com.danakatz.pig;
+package edu.uchicago.danakatz.pig;
 
 import javax.swing.*;
 
